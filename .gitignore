@@ -1,0 +1,8 @@
+*~
+._*
+.DS_Store
+.idea
+Thumbs.db
+*.ini
+skill_env/*
+config.ini
